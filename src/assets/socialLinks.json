@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "去 Github 看看",
+    "url": "https://github.com/qingshiovo"
+  },
+  {
+    "name": "BiliBili",
+    "icon": "/images/icon/bilibili.png",
+    "tip": "(゜-゜)つロ 干杯 ~",
+    "url": "https://space.bilibili.com/2103576427"
+  },
+  {
+    "name": "QQ",
+    "icon": "/images/icon/qq.png",
+    "tip": "有什么事吗",
+    "url": "https://qm.qq.com/q/hyM6GR113U"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "来封 Email ~",
+    "url": "mailto:chenkaier@163.com"
+  },
+  {
+    "name": "Email2",
+    "icon": "/images/icon/email.png",
+    "tip": "另一个邮箱",
+    "url": "mailto:2070167257@qq.com"
+  }
+]
